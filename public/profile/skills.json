@@ -6,8 +6,8 @@
             "items" : [
      
                 {
-                    "icon": "images/skills/java.png",
-                    "title": "Java"
+                    "icon": "images/skills/swift.png",
+                    "title": "Swift"
                 },
                 {
                     "icon": "images/skills/php.png",
@@ -18,20 +18,24 @@
                     "title": "JavaScript"
                 },
                 {
-                    "icon": "images/skills/python.png",
-                    "title": "Python"
+                    "icon": "images/skills/firebase.png",
+                    "title": "Firebase"
                 },
                 {
-                    "icon": "images/skills/mysql.png",
-                    "title": "MySQL"
+                    "icon": "images/skills/mongo-db.png",
+                    "title": "MongoDB"
                 }
         ]},
         {
             "title": "Frameworks & Technologies",
             "items" : [
                 {
-                    "icon": "images/skills/android_new.png",
-                    "title": "Android"
+                    "icon": "images/skills/swift.png",
+                    "title": "Swift UIKIT"
+                },
+                {
+                    "icon": "images/skills/swiftui.png",
+                    "title": "SwiftUI"
                 },
                 {
                     "icon": "images/skills/react.png",
@@ -47,16 +51,24 @@
             "title" : "Tools & Platforms",
             "items": [
                 {
-                    "icon": "images/skills/android-studio.png",
-                    "title": "Android Studio"
+                    "icon": "images/skills/xcode.png",
+                    "title": "Xcode"
+                },
+                {
+                    "icon": "images/skills/VSCode.png",
+                    "title": "Visual Studio Code"
                 },
                 {
                     "icon": "images/skills/git.png",
                     "title": "Git"
                 },
                 {
-                    "icon": "images/skills/docker.png",
-                    "title": "Docker"
+                    "icon": "images/skills/bitbucket.png",
+                    "title": "Bitbucket"
+                },
+                {
+                    "icon": "images/skills/azure.png",
+                    "title": "Azure DevOps"
                 }
             ]
     }
